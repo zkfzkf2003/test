@@ -1,3 +1,7 @@
 modify1
+<<<<<<< HEAD
 modify2
 modify3
+=======
+modify2
+>>>>>>> 551bf8d0f9bf56ccb5ea3418d953e1f74042a5c0
